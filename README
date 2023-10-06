@@ -1,0 +1,6 @@
+# KaiABC
+
+Mathematical descriptions for the cyanobacterial circadian oscillator
+which consists of protein KaiA, KaiB, and KaiC,
+utilities to integrate and identify the period and the amplitude,
+and related efforts to answer biological questions.
